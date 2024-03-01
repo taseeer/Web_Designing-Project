@@ -7,7 +7,7 @@ Welcome to the School Management System project repository! This project is aime
 
 ## Requirement Document
 
-Please find the [Requirement Document](link-to-your-document) for the School Management System project. Kindly review it carefully, and if you have any comments, corrections, or suggestions, feel free to leave them directly in the document or comment here in the repository.
+Please find the [Requirement Document](School Website Requirements Document.pptx) for the School Management System project. Kindly review it carefully, and if you have any comments, corrections, or suggestions, feel free to leave them directly in the document or comment here in the repository.
 
 ## Getting Started
 
